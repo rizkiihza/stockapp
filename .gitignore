@@ -1,2 +1,4 @@
 .vscode/
 stock_technical_indicator/
+*.pyc
+stockapp/
